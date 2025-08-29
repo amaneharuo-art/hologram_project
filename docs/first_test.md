@@ -6,3 +6,7 @@
 
 ## 写真
 ![first test](../assets/first_test.jpg)
+
+### Day2 完了！
+GitHub に初回試作のレポートと写真をアップロード完了。  
+長い道のりだったが、GitHub運用の第一歩を踏み出した。
